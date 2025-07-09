@@ -46,6 +46,8 @@ if(score>100){
 const balance = 1000
 if(balance>500) console.log("test");
 
+//nesting
+
 if(balance < 500){
     console.log('less then 500');
     
